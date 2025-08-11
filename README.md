@@ -71,7 +71,7 @@ I’m a **PhD Researcher** in Planetary Physics at the University of Leicester, 
 ---
 
 ## 📄 Publications
-- *In Review*. Conan Murgatroyd, Ian B. Hutchinson, Melissa McHugh, Hannah N. Lerman, Paul O’Brien, Zhixing Ling, Weimin Yuan, Qinyu Yu, and Chen Zhang. Characterization of scmos sensors for wide x-ray telescope on the einstein probe mission. *Springer Nature*, 220(1):0–22, 2025.
+<!-- - *In Review*. Conan Murgatroyd, Ian B. Hutchinson, Melissa McHugh, Hannah N. Lerman, Paul O’Brien, Zhixing Ling, Weimin Yuan, Qinyu Yu, and Chen Zhang. Characterization of scmos sensors for wide x-ray telescope on the einstein probe mission. *Springer Nature*, 220(1):0–22, 2025. -->
 - Conan Murgatroyd, Ian B. Hutchinson, Hannah N. Lerman, Melissa McHugh, Howell G.M. Edwards, Andoni Moral, Carlos Pérez, Olga Prieto-Ballesteros, Andrewa Ball, Igor Drozdovskiy, Loredana Bessone, and Cedric Malherbe. Optimising handheld instrumentation for future astronaut missions. *Journal of Raman Spectroscopy*, 2024.
 
 <!-- ---
