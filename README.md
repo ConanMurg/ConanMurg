@@ -7,9 +7,9 @@
 - How to reach me: [LinkedIn](http://linkedin.com/in/conanmurgatroyd/)
 
 - Pronouns: he/him
-<!---
+
 - Fun fact: 
--->
+- 
 ![Snake animation](https://github.com/ConanMurg/ConanMurg/blob/output/github-contribution-grid-snake.svg) -->
 
 
