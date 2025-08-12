@@ -19,6 +19,14 @@
 ## 🌌 About Me
 I’m a **PhD Researcher** in Planetary Physics at the University of Leicester, specializing in **space instrumentation design** and **scientific software development**. My work spans across **physics**, **data analysis**, and **hardware control** to contribute to current and upcoming **ESA missions**.
 
+
+### Currently Learning
+- **Cloud Data**: AWS (S3, Lambda, Redshift)
+- **Data Analysis & Visualization**: NumPy, Matplotlib, Pandas, Tableau  
+- **Databases**: MongoDB, PostgreSQL
+
+Utilizing the Github Student Developer Pack to explore and learn more about working with AWS, SQL and data visualization!
+
 <!-- <div id="badges">
     <img src="https://komarev.com/ghpvc/?username=ConanMurg&style=flat-square&color=blue" alt=""/>
 </div> -->
