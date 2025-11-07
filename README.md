@@ -4,7 +4,7 @@
 
 - I’m currently learning
 
-- How to reach me: [LinkedIn](http://linkedin.com/in/conanmurgatroyd/)
+- How to reach me: [LinkedIn](http://linkedin.com/in/ConanMurg/)
 
 - Pronouns: he/him
 
@@ -103,7 +103,7 @@ Utilizing the Github Student Developer Pack to explore and learn more about work
 
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/conanmurgatroyd/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/ConanMurg/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ConanMurg)
 
 ---
